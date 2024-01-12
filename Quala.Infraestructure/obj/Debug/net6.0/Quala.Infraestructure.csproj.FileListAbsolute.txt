@@ -15,3 +15,4 @@ F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\refint\Quala
 F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.pdb
 F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.genruntimeconfig.cache
 F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\ref\Quala.Infraestructure.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.sourcelink.json

@@ -9,3 +9,4 @@ F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.dll
 F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\refint\Quala.Core.dll
 F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.pdb
 F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\ref\Quala.Core.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.sourcelink.json
