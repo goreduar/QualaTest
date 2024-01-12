@@ -1,0 +1,11 @@
+F:\Prueba_Quala\ProjectQuala\Quala.Core\bin\Debug\net6.0\Quala.Core.deps.json
+F:\Prueba_Quala\ProjectQuala\Quala.Core\bin\Debug\net6.0\Quala.Core.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Core\bin\Debug\net6.0\Quala.Core.pdb
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.AssemblyInfoInputs.cache
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.AssemblyInfo.cs
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.csproj.CoreCompileInputs.cache
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\refint\Quala.Core.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\Quala.Core.pdb
+F:\Prueba_Quala\ProjectQuala\Quala.Core\obj\Debug\net6.0\ref\Quala.Core.dll

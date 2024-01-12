@@ -1,0 +1,17 @@
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\bin\Debug\net6.0\Quala.Infraestructure.deps.json
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\bin\Debug\net6.0\Quala.Infraestructure.runtimeconfig.json
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\bin\Debug\net6.0\Quala.Infraestructure.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\bin\Debug\net6.0\Quala.Infraestructure.pdb
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\bin\Debug\net6.0\Quala.Core.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\bin\Debug\net6.0\Quala.Core.pdb
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.csproj.AssemblyReference.cache
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.AssemblyInfoInputs.cache
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.AssemblyInfo.cs
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.csproj.CoreCompileInputs.cache
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.csproj.CopyComplete
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\refint\Quala.Infraestructure.dll
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.pdb
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\Quala.Infraestructure.genruntimeconfig.cache
+F:\Prueba_Quala\ProjectQuala\Quala.Infraestructure\obj\Debug\net6.0\ref\Quala.Infraestructure.dll
